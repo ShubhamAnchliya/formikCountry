@@ -1,0 +1,24 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  form {
+    display: flex;
+    margin :2rem;
+  }
+
+  form .selectTag {
+    width: 15rem;
+    margin: 10px;
+  }
+
+
+
+
+  .btnS {
+
+    width: 6rem;
+    height: 2rem;
+    margin: 12px;
+  }
